@@ -1,0 +1,12 @@
+[
+    {
+        "nombre": "Nicolas",
+        "apellido": "Pe\u00f1a",
+        "nombreCompleto": "Nicolas Pe\u00f1a",
+        "fechaNacimiento": "2003-07-03",
+        "edad": 22,
+        "email": "nicolasgomezz373@gmail.com",
+        "telefono": "3115887353",
+        "genero": "Masculino"
+    }
+]
